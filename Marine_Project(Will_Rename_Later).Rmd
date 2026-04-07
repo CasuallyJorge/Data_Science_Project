@@ -2,7 +2,7 @@
 title: "Marine_Project(Will_Rename_Later)"
 output: html_document
 ---
-```{r}
+```{r, echo = FALSE}
 library(tidyverse)
 ```
 
