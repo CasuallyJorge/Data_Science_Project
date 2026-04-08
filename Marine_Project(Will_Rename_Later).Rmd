@@ -11,4 +11,8 @@ library(tidyverse)
 
 #Think of this as a "Test" file
 
+read.csv("cause_of_deaths.csv") -> death_dataset
+
+read.csv("world_population.csv") -> pop_dataset
+
 ```
