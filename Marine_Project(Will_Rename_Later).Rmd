@@ -16,5 +16,10 @@ read.csv("cause_of_deaths.csv") -> death_dataset
 read.csv("world_population.csv") -> pop_dataset
 ```
 
-##Cause of Deaths and Populations Datasets
+## Cause of Deaths and Populations 
+What our datasets contain
+```{r, echo = FALSE}
+glimpse(pop_dataset)
+glimpse(death_dataset)
+```
 
